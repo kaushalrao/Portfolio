@@ -544,10 +544,6 @@ video {
   margin-left: -0.6rem;
 }
 
-.-ml-\[35px\]{
-  margin-left: -35px;
-}
-
 .-mt-\[1rem\]{
   margin-top: -1rem;
 }
@@ -1164,10 +1160,6 @@ video {
   text-align: center;
 }
 
-.font-arenq{
-  font-family: Arenq;
-}
-
 .font-beckman{
   font-family: Beckman;
 }
@@ -1222,10 +1214,6 @@ video {
 
 .text-\[50px\]{
   font-size: 50px;
-}
-
-.text-\[88px\]{
-  font-size: 88px;
 }
 
 .font-black{

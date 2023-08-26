@@ -54952,12 +54952,11 @@ const Navbar = () => {
               /* @__PURE__ */ jsxRuntimeExports.jsx(
                 "ul",
                 {
-                  className: "list-none flex flex-col -gap-[1rem] \r\n                items-start justify-end mt-[10rem] -ml-[35px]",
+                  className: "list-none flex flex-col -gap-[1rem] \r\n                items-start justify-end mt-[10rem]",
                   children: navLinks.map((nav) => /* @__PURE__ */ jsxRuntimeExports.jsx(
                     "li",
                     {
-                      id: nav.id,
-                      className: `${active === nav.title ? "text-french" : "text-eerieBlack"} text-[88px] font-bold font-arenq 
+                      className: `text-eerieBlack text-[40px] font-medium font-mova
                       uppercase tracking-[1px] cursor-pointer`,
                       onClick: () => {
                         setToggle(!toggle);
