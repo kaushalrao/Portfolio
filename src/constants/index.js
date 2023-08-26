@@ -1,8 +1,6 @@
 import {
   frontend,
   backend,
-  ux,
-  prototyping,
   javascript,
   typescript,
   html,
@@ -15,8 +13,6 @@ import {
   figma,
   docker,
   postgresql,
-  rubyrails,
-  graphql,
   komikult,
   leaderboard,
   math,
@@ -28,11 +24,15 @@ import {
 
 export const navLinks = [
   {
+    id: '',
+    title: 'Home',
+  },
+  {
     id: 'about',
     title: 'About',
   },
   {
-    id: 'projects',
+    id: 'tech',
     title: 'Projects',
   },
   {
@@ -49,14 +49,6 @@ const services = [
   {
     title: 'Backend Developer',
     icon: backend,
-  },
-  {
-    title: 'UI/UX Design',
-    icon: ux,
-  },
-  {
-    title: 'Software Prototyping',
-    icon: prototyping,
   },
 ];
 
@@ -92,14 +84,6 @@ const technologies = [
   {
     name: 'Node JS',
     icon: nodejs,
-  },
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
   },
   {
     name: 'postgresql',

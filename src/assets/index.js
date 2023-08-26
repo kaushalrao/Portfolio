@@ -6,12 +6,11 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
-import shaq from './personal/shaq.png';
+import kaushal from './personal/kaushal.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
-import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
@@ -34,9 +33,7 @@ import reactjs from './tech/reactjs.png';
 import redux from './tech/redux.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
-import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
-import rubyrails from './tech/rubyrails.png';
 
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
@@ -52,6 +49,9 @@ import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
+import linkedin from './contact/linkedin.png';
+
+
 export {
   bwmap,
   nairobi,
@@ -59,11 +59,9 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
+  kaushal,
   backend,
-  ux,
   frontend,
-  prototyping,
   github,
   close,
   download,
@@ -78,12 +76,10 @@ export {
   docker,
   figma,
   git,
-  graphql,
   html,
   javascript,
   nodejs,
   postgresql,
-  rubyrails,
   reactjs,
   redux,
   tailwind,
@@ -100,4 +96,5 @@ export {
   microverse,
   tw,
   mt,
+  linkedin
 };
