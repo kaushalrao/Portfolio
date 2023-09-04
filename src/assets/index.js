@@ -50,6 +50,8 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
 import linkedin from './contact/linkedin.png';
+import medium from './contact/medium.png';
+
 
 
 export {
@@ -96,5 +98,6 @@ export {
   microverse,
   tw,
   mt,
-  linkedin
+  linkedin,
+  medium
 };

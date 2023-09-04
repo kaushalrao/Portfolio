@@ -33,11 +33,11 @@ export const navLinks = [
   },
   {
     id: 'tech',
-    title: 'Projects',
+    title: 'Technologies',
   },
   {
     id: 'contact',
-    title: 'Contact',
+    title: 'Links',
   },
 ];
 
@@ -105,10 +105,10 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Junior Software Engineer',
+    title: 'Senior Engineer',
     company_name: 'Mindtree',
     icon: mt,
-    iconBg: '#333333',
+    iconBg: '#ffffff',
     date: 'May 2018 - November 2021',
   },
   {
